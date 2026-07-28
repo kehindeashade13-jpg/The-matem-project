@@ -1,0 +1,8 @@
+{
+  "name": "The Matem Schools Web Portal",
+  "description": "A professional, unified website for Matem Private School and College featuring admissions, academic curricula, and school-wide news updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

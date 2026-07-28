@@ -1,0 +1,194 @@
+{
+  "inquiries": [
+    {
+      "id": "inq-1",
+      "name": "Olumide Johnson",
+      "email": "olujohnson@example.com",
+      "phone": "+234 803 123 4567",
+      "arm": "college",
+      "purpose": "admission",
+      "message": "Hello, I would like to inquire about the JSS1 entrance exam dates and whether registration forms can be picked up physically from the school office or filled online. Thank you.",
+      "status": "pending",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "inq-2",
+      "name": "Chioma Obi",
+      "email": "chioma.obi@example.com",
+      "phone": "+234 812 987 6543",
+      "arm": "private-school",
+      "purpose": "general",
+      "message": "Good day, please do you offer school bus services for children residing around Lekki Phase 1? My daughter is entering Primary 2. Thank you!",
+      "status": "contacted",
+      "date": "2026-07-18"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Matem Private School Tops Regional Science Fair",
+      "category": "Academic Achievements",
+      "excerpt": "Our Primary 5 pupils emerged overall winners in the regional STEM exhibition with their solar energy prototype project.",
+      "content": "We are thrilled to announce that Matem Private School has clinched the first position at the annual Lagos Regional Primary Science and STEM Exhibition!\n\nOur brilliant Primary 5 representatives—Chidi, Amina, and Tunde—presented an innovative, working prototype of a \"Solar-Powered Clean Water Purifier for Rural Communities.\" The judges praised their deep understanding of renewable energy and their practical problem-solving skills.\n\nAt Matem, we believe in hands-on learning. This victory is a testament to the dedication of our excellent teaching staff and the curious minds of our pupils. \n\n\"We wanted to build something that could help villages get clean water using just the sun,\" said Chidi during his presentation.\n\nCongratulations to the pupils, their parents, and our science coordinator, Mrs. Sarah Alabi! We are incredibly proud of this milestone.",
+      "date": "2026-07-10",
+      "image": "https://picsum.photos/seed/science/800/600",
+      "author": "Admin Office"
+    },
+    {
+      "id": "2",
+      "title": "Matem College Academic Calendar & Term 3 Resumption Info",
+      "category": "Announcements",
+      "excerpt": "Welcome back information, uniform standards, and scheduled examinations for the upcoming academic term.",
+      "content": "As we prepare to welcome back our students to Matem College for the third term of the 2026 academic session, please take note of the following critical dates and information:\n\n1. **Resumption Date:** All JSS and SSS students are expected back on campus on Monday, September 7, 2026, by 7:30 AM.\n2. **Dress Code:** Uniform standards will be strictly enforced from day one. Please ensure your child's uniforms, including shoes and school blazers, are in excellent condition.\n3. **Materials:** JSS3 and SSS3 students should check their specific preparatory timetables for the upcoming WAEC and NECO mock examinations.\n\nWe are excited to begin another term of academic rigor and outstanding extracurricular development. For queries regarding transportation or school meals, kindly contact the registrar's desk.",
+      "date": "2026-07-15",
+      "image": "https://picsum.photos/seed/school/800/600",
+      "author": "Principal's Desk"
+    },
+    {
+      "id": "3",
+      "title": "Introducing the Matem Modern ICT & Robotics Lab",
+      "category": "School News",
+      "excerpt": "A preview of our newly completed state-of-the-art computational laboratory for both primary and secondary arms.",
+      "content": "Technology is changing the world, and at Matem, we are making sure our students are leading that change. We are delighted to unveil the brand-new **Matem Modern ICT & Robotics Laboratory**, custom-built to serve both Matem Private School and Matem College.\n\nEquipped with high-performance desktop computers, interactive projectors, and modular robotics kits, this facility will enable:\n- Python and Scratch programming classes\n- Hands-on robotics, sensor integrations, and drone coding\n- Digital design and 3D modeling workshops\n- Digital literacy programs for our nursery and primary pupils\n\nProprietor Mr Ekunwe Martin Nosakhare noted: \"This lab is more than just computers. It is an incubator for critical thinking, creativity, and technological leadership.\"\n\nPractical training classes will commence in the first week of the upcoming term. Stay tuned for photos from the official commissioning ceremony!",
+      "date": "2026-07-17",
+      "image": "https://picsum.photos/seed/lab/800/600",
+      "author": "Proprietor Office"
+    },
+    {
+      "id": "4",
+      "title": "Important Notice: 2026/2027 Entrance Examination & Admission Screening Ongoing",
+      "category": "Notices",
+      "excerpt": "Official notice regarding 2026/2027 Session entrance exam schedules, application forms, and submission guidelines for Matem Schools.",
+      "content": "Official Notice from the Admissions Committee:\n\n1. Applications for admission into Nursery, Primary, JSS1-3, and SSS1-2 for the 2026/2027 Academic Session are currently open.\n2. Entrance examination screening forms can be obtained from the school administrative office or filled online via the Admissions portal.\n3. Scheduled entrance examination dates, past questions guidance, and document verification rules are available at the front desk.\n\nAll parents and guardians are advised to complete registration early. For inquiries, please contact +234 803 000 0000 or visit the campus administrative office.",
+      "date": "2026-07-20",
+      "image": "https://picsum.photos/seed/notice/800/600",
+      "author": "Administrative Board"
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "title": "2026 Matem Sports Day & Inter-House Athletics",
+      "description": "An exciting day of track and field events, house marches, and healthy competition at our main sports field.",
+      "date": "2026-08-22",
+      "time": "09:00 AM - 03:00 PM",
+      "location": "School Main Sports Complex",
+      "category": "sports"
+    },
+    {
+      "id": "e2",
+      "title": "Matem Schools Annual Cultural Day Celebration",
+      "description": "Celebrating the diverse cultural heritage of Nigeria with traditional wear, culinary exhibitions, dance, and music.",
+      "date": "2026-09-18",
+      "time": "10:00 AM - 04:00 PM",
+      "location": "Auditorium Hall",
+      "category": "cultural"
+    },
+    {
+      "id": "e3",
+      "title": "Parent-Teacher Association (PTA) General Meeting",
+      "description": "A vital collaborative session to discuss curriculum updates, welfare, security, and school expansion projects.",
+      "date": "2026-10-03",
+      "time": "12:00 PM - 02:30 PM",
+      "location": "Matem College Assembly Hall",
+      "category": "academic"
+    }
+  ],
+  "carousel": {
+    "images": [
+      "https://github.com/user-attachments/assets/3c8baf74-6edb-447b-b197-7eb6b55adf51",
+      "/images/matem_college_promo.jpg",
+      "/images/matem_school_promo.jpg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselNurseryPrimary": {
+    "images": [
+      "https://github.com/user-attachments/assets/3c8baf74-6edb-447b-b197-7eb6b55adf51",
+      "/images/nursery_primary_school.jpg",
+      "/images/matem_pupils_uniform.jpg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselSecondary": {
+    "images": [
+      "/images/matem_college_promo.jpg",
+      "/images/college_students.jpg",
+      "/images/matem_college.jpg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselAcademicAchievement": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784898988881-nd1up5hs8w.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899035520-wzq5uvdu6ai.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899061620-ubj3g5y7rem.jpeg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselGallery": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784898827231-n42r5yyr8k.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784898844817-csu7z2hhsjs.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784898861673-wonq46oketb.jpeg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselEvent": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784898909292-bcvsd6s15pl.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784898928490-l7tmgjpi3yn.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784898951772-h0nfdr2xjbm.jpeg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselIctRobotics": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784900350296-tuqaa97bs1i.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784900365362-dlkgiyn992v.jpeg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselClassicScience": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784900386016-5mmga5pp0z3.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784900401988-fl29f7ivyid.jpeg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselPhysicalLibrary": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784900419728-bjhssda4h9.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784900435674-5lcw9iicbbn.jpeg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselCrechePlayground": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899308285-rndzvhayu9q.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899344509-gmu90f83ypu.jpeg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselModernClinic": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899248358-leovh9wcc9o.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899270222-64wfm6qhh9.jpeg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselSportsGala": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899203333-0iz4qfk1q8m.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899218974-q5ty7pk7tqn.jpeg"
+    ],
+    "intervalSeconds": 5
+  },
+  "carouselGraduationGala": {
+    "images": [
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899132386-enyjinwsq1g.jpeg",
+      "https://uqgclgiqjbklrfxeuvnm.supabase.co/storage/v1/object/public/school-media/carousels/1784899151925-673ic4mq8mm.jpeg"
+    ],
+    "intervalSeconds": 5
+  }
+}
