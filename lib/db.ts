@@ -123,7 +123,7 @@ const INITIAL_INQUIRIES: Inquiry[] = [
 export function getDatabase(): SchoolDatabase {
   const defaultCarousel: CarouselSettings = {
     images: [
-      '/images/matem_private_school.jpg',
+      'https://github.com/user-attachments/assets/3c8baf74-6edb-447b-b197-7eb6b55adf51',
       '/images/matem_college_promo.jpg',
       '/images/matem_school_promo.jpg'
     ],
@@ -132,7 +132,7 @@ export function getDatabase(): SchoolDatabase {
 
   const defaultNurseryPrimary: CarouselSettings = {
     images: [
-      '/images/matem_private_school.jpg',
+      'https://github.com/user-attachments/assets/3c8baf74-6edb-447b-b197-7eb6b55adf51',
       '/images/nursery_primary_school.jpg',
       '/images/matem_school_promo.jpg',
       '/images/matem_pupils_uniform.jpg'
