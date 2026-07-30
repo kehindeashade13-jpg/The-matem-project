@@ -296,7 +296,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div className="lg:col-span-5 relative h-[450px] rounded-2xl overflow-hidden shadow-premium border-4 border-white">
               <Image
-                src="https://github.com/user-attachments/assets/f9262fb8-cc20-4ae1-b323-3faf1ca292ef"
+                src="https://github.com/user-attachments/assets/9a46b98c-8731-42d0-b375-62618c7961a4"
                 alt="Mr Ekunwe Martin Nosakhare - Founder and Proprietor of Matem Schools"
                 fill
                 priority
